@@ -10,5 +10,5 @@ a GUI securely on a VPN, using public WiFi, while the server runs at home.
 While predicting the Estimated Moving Average (EMA), within a window, for the next 5 minute candle may be 
 beneficial for some traders - I would not recommend trading by this metric alone. The predictions made by 
 this model can not be relied upon for consistent profits. Do not rely on this model for execution logic. 
-However, this model still may have value in that it could help a trader understand unfolding market trends.
+This model still may have value in that it could help a trader understand unfolding market trends.
 
